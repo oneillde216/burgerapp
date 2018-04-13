@@ -34,5 +34,5 @@ router.put("/:id", function(req, res) {
 	});
 })
 
-// Export
+
 module.exports = router;
