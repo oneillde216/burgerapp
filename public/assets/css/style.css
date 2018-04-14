@@ -51,7 +51,7 @@ button {
 	flex-grow: 1;
 	background: #333;
 	padding: 0.5em 2em 1.7em 2em;
-	margin: 1em 0 1em 1em;
+	margin: 1em 1em 1em;
 }
 
 #burgers-devoured h2, #burgers-devoured div {
@@ -79,12 +79,11 @@ h1 {
 }
 
 .eat-btn {
-	margin-right: 0.7em;
 	padding: 5px;
 }
 
 #submit-btn {
-	padding: 0.57em 1em 0.57em 1em;
+	padding: 0.5em 1em 0.5em 1em;
 	font-size: 1.5em;
 	background: #38eeff;
 	border: none;
